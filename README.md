@@ -1,6 +1,6 @@
 ## Hey there, I'm Matt 👋
 
-[![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matt-heindel-76382218b/)](https://www.linkedin.com/in/matt-heindel-76382218b/)
+[![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matt-heindel/)](https://www.linkedin.com/in/matt-heindel/)
 
 ### About Me
 
