@@ -29,3 +29,4 @@
 
 ![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)
 ![python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
+![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg)
