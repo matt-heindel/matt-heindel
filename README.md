@@ -9,24 +9,46 @@
 
 ---
 
-### Languages and Tools
+### My Favorite Tech
 
-![node](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
-![express](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)
-![nginx](https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg)
+#### Front end
 
-![react](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
-![babel](https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg)
-![webpack](https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg)
-![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
-![npm](https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg)
+#### Back end
 
-![mongodb](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
-![mysql](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)
-![postgresql](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)
+![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)
-![python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
-![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg)
+#### Databases
+
+![neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Dev Environment
+
+![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+
+#### To Explore Next
+
+![typescipt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![graphql](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![material ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![circleci](	https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
+
+---
+
+[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-heindel&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
