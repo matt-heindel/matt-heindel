@@ -4,8 +4,8 @@
 
 ### About Me
 
-- I'm currently a Software Engineering Student at [Hack Reactor](https://www.hackreactor.com/coding-bootcamp?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-GAGxDfcp29hdLplIaXfBrrLL-noZV7WkwMzGgZ54yDuHydiM9izaxoCWAoQAvD_BwE)
-- Fun-fact: I used to make wine before transitioning to software
+- I'm currently a Software Engineering Immersive Resident at [Hack Reactor](https://www.hackreactor.com/coding-bootcamp?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-GAGxDfcp29hdLplIaXfBrrLL-noZV7WkwMzGgZ54yDuHydiM9izaxoCWAoQAvD_BwE)
+- Fun-fact: I discovered my passion for Software Engineering while making wine as a Wine Chemist
 
 ---
 
