@@ -5,7 +5,8 @@
 ### About Me
 
 - I'm currently a Software Engineering Immersive Resident at [Hack Reactor](https://www.hackreactor.com/coding-bootcamp?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-GAGxDfcp29hdLplIaXfBrrLL-noZV7WkwMzGgZ54yDuHydiM9izaxoCWAoQAvD_BwE)
-- Fun-fact: I discovered my passion for Software Engineering while making wine as a Wine Chemist
+- I was voted 'Most Likely to Document the Documentation' by my peers at Hack Reactor
+- I discovered my passion for Software Engineering while making wine as a Wine Chemist
 
 ---
 
